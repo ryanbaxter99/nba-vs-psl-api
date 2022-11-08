@@ -1,0 +1,30 @@
+{
+    "NBA": {
+        "Avg Guard Height": 75.39473684210526,
+        "Avg Center Height": 83.5,
+        "Avg Forward Height": 81.06896551724138,
+        "Avg Mixed Height": 79.04
+    },
+    "Premier_League": {
+        "Attacker": 71.5952172645086,
+        "Midfielder": 70.34120734908134,
+        "Defender": 72.08303507516102,
+        "Goalkeeper": 75.19685039370079
+    },
+    "NBA_vs_PL": {
+        "Avg NBA Player Height": 78.6,
+        "Avg PL Soccer Player Height": 71.44881889763784
+    },
+    "PL_Player_Positions": {
+        "Attacker": 27,
+        "Midfielder": 36,
+        "Defender": 33,
+        "Goalie": 4
+    },
+    "NBA_Player_Positions": {
+        "Guard": 38,
+        "Center": 8,
+        "Forward": 29,
+        "Mixed": 25
+    }
+}
